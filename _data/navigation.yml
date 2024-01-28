@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "About me"
+    url: 
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Posts"
+    url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  - title: "Categories"
+    url: /categories/
+
+#for sidebar navigation
+docs:
+  #- title: "Profile"
+  #children:
+    #- title: "Work Experience"
+    #  url: /work-experience
+    #- title: "Education"
+    #  url: 
+    #- title: "Certification"
+    #  url: 
+
