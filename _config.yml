@@ -122,7 +122,7 @@ analytics:
 # Site Author
 author:
   name             : "Chun Yuan"
-  avatar           : ""/assetsimages/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assetsimages/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just another human being, likes to travel and recently started blogging about it. Started dabbling in web technology; let's see how this goes!"
   location         : "Singapore"
   email            : "chunyuan1966@gmail.com"
