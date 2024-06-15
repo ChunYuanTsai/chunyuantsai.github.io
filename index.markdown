@@ -4,7 +4,7 @@
 
 layout: home
 author_profile: true
-title: ""
+title: "Home"
 ---
 
 # Hello!

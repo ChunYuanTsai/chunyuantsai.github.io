@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "write"
+title: "Write"
 permalink: /write/
 ---
 
